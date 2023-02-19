@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.test{
+	border:1px solid black;
+	border-collapse: collapse;
+	padding:20px;
+}
+th,tr,td{
+		border:1px solid black;
+		border-collapse: collapse;
+	padding:20px;
+}
+}
